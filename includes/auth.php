@@ -12,6 +12,17 @@ function requireLogin() {
         header("Location: " . BASE_URL . "index.php");
         exit();
     }
+    // Verify user still exists in database (handles stale sessions)
+    global $pdo;
+    if (isset($pdo)) {
+        $check = $pdo->prepare("SELECT user_id FROM users WHERE user_id = ? AND is_active = 1");
+        $check->execute([$_SESSION['user_id']]);
+        if (!$check->fetch()) {
+            session_destroy();
+            header("Location: " . BASE_URL . "index.php");
+            exit();
+        }
+    }
 }
 
 function requireAdmin() {

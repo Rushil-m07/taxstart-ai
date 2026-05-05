@@ -56,7 +56,15 @@ function hasWelcomeOffer($pdo, $advisor_id) {
 // Initialize welcome offer for new advisor
 function initWelcomeOffer($pdo, $advisor_id) {
     if (hasWelcomeOffer($pdo, $advisor_id)) return;
+
+    // Verify user exists before inserting credits
+    $check = $pdo->prepare("SELECT user_id FROM users WHERE user_id = ?");
+    $check->execute([$advisor_id]);
+    if (!$check->fetch()) return;
+
     $year = getCurrentYear();
+
+    try {
 
     // 2 free silver
     $pdo->prepare("
@@ -93,6 +101,11 @@ function initWelcomeOffer($pdo, $advisor_id) {
              price_paid, is_free, year, expires_at)
         VALUES (?, 'gold', 1, 0.00, 1, ?, ?)
     ")->execute([$advisor_id, $year, $exp]);
+
+    } catch (PDOException $e) {
+        // Silently fail — credits will be retried on next page load
+        error_log("initWelcomeOffer failed for advisor $advisor_id: " . $e->getMessage());
+    }
 }
 
 // Use one credit (returns true if successful)
