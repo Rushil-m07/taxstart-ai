@@ -1,0 +1,223 @@
+TAXSTART AI — OFFICIAL TAX RULES REFERENCE 2024-2025
+=====================================================
+
+INSTRUCTIONS FOR AI: Use these rules as the PRIMARY source for all tax calculations.
+If a number from document analysis conflicts with these rules, flag it.
+Always apply brackets progressively (marginal rates, not flat).
+Always show bracket-by-bracket breakdown in calculations.
+
+====================================================================
+CANADA — FEDERAL TAX (CRA) — TAX YEAR 2024
+====================================================================
+
+FEDERAL TAX BRACKETS (Progressive/Marginal):
+  $0 to $55,867           → 15%
+  $55,867.01 to $111,733  → 20.5%
+  $111,733.01 to $154,906 → 26%
+  $154,906.01 to $220,000 → 29%
+  Over $220,000           → 33%
+
+HOW TO CALCULATE: Apply each rate ONLY to the income within that bracket.
+Example: $80,000 income
+  First $55,867 × 15% = $8,380.05
+  Remaining $24,133 × 20.5% = $4,947.27
+  Federal tax = $13,327.32
+
+BASIC PERSONAL AMOUNT (BPA): $15,705
+  → This is a non-refundable credit: $15,705 × 15% = $2,355.75 credit
+  → Subtract this from federal tax owing
+
+CPP CONTRIBUTIONS 2024:
+  Employee rate: 5.95%
+  Maximum pensionable earnings: $68,500
+  Basic exemption: $3,500
+  Maximum employee contribution: $3,867.50
+  Self-employed pay both portions: $7,735.00
+
+CPP2 (Second ceiling) 2024:
+  Earnings between $68,500 and $73,200: 4%
+  Maximum additional contribution: $188
+
+EI PREMIUMS 2024:
+  Employee rate: 1.66%
+  Maximum insurable earnings: $63,200
+  Maximum annual premium: $1,049.12
+
+RRSP:
+  Contribution limit: 18% of previous year earned income
+  Maximum: $31,560 for 2024
+  Contributions are fully deductible from taxable income
+
+TFSA:
+  2024 contribution limit: $7,000
+  Not deductible, but all growth and withdrawals are tax-free
+
+COMMON FEDERAL NON-REFUNDABLE CREDITS (claimed at 15%):
+  Age amount (65+): $8,790
+  Spouse/partner amount: up to $15,705
+  Disability amount: $9,428
+  Canada caregiver amount: $7,999
+  Medical expenses: amount exceeding lesser of $2,759 or 3% of net income
+  Charitable donations: 15% on first $200, 29% on remainder (33% if income over $235,675)
+  Tuition: 15% of eligible tuition fees
+
+CANADA CHILD BENEFIT (monthly, income-tested):
+  Under 6: up to $7,437/year per child
+  Age 6-17: up to $6,275/year per child
+  Reduced when family income exceeds $34,863
+
+FILING DEADLINE: April 30, 2025 (self-employed: June 15, 2025 but payment still due April 30)
+
+====================================================================
+BRITISH COLUMBIA — PROVINCIAL TAX 2024
+====================================================================
+
+BC PROVINCIAL TAX BRACKETS:
+  $0 to $47,937           → 5.06%
+  $47,937.01 to $95,875   → 7.70%
+  $95,875.01 to $110,076  → 10.50%
+  $110,076.01 to $133,664 → 12.29%
+  $133,664.01 to $181,232 → 14.70%
+  $181,232.01 to $252,752 → 16.80%
+  Over $252,752           → 20.50%
+
+BC BASIC PERSONAL AMOUNT: $12,580
+  → Credit: $12,580 × 5.06% = $636.55
+
+BC CLIMATE ACTION TAX CREDIT: up to $504/year for individuals
+
+NOTE: Total tax = Federal tax + Provincial tax - credits
+
+====================================================================
+ONTARIO — PROVINCIAL TAX 2024
+====================================================================
+
+ONTARIO TAX BRACKETS:
+  $0 to $51,446           → 5.05%
+  $51,446.01 to $102,894  → 9.15%
+  $102,894.01 to $150,000 → 11.16%
+  $150,000.01 to $220,000 → 12.16%
+  Over $220,000           → 13.16%
+
+Ontario Health Premium (added to tax):
+  Income $20,000-$25,000: $0-$300
+  Income $25,000-$36,000: $300-$450
+  Income $36,000-$48,000: $450-$600
+  Income $48,000-$72,000: $600-$750
+  Income $72,000-$200,000: $750-$900
+  Income over $200,000: $900
+
+Ontario Basic Personal Amount: $11,865
+
+====================================================================
+ALBERTA — PROVINCIAL TAX 2024
+====================================================================
+
+ALBERTA TAX BRACKETS:
+  $0 to $148,269          → 10%
+  $148,269.01 to $177,922 → 12%
+  $177,922.01 to $237,230 → 13%
+  $237,230.01 to $355,845 → 14%
+  Over $355,845           → 15%
+
+Alberta Basic Personal Amount: $21,003
+
+====================================================================
+UNITED STATES — FEDERAL TAX (IRS) — TAX YEAR 2024
+====================================================================
+
+SINGLE FILER BRACKETS:
+  $0 to $11,600           → 10%
+  $11,600.01 to $47,150   → 12%
+  $47,150.01 to $100,525  → 22%
+  $100,525.01 to $191,950 → 24%
+  $191,950.01 to $243,725 → 32%
+  $243,725.01 to $609,350 → 35%
+  Over $609,350           → 37%
+
+MARRIED FILING JOINTLY BRACKETS:
+  $0 to $23,200           → 10%
+  $23,200.01 to $94,300   → 12%
+  $94,300.01 to $201,050  → 22%
+  $201,050.01 to $383,900 → 24%
+  $383,900.01 to $487,450 → 32%
+  $487,450.01 to $731,200 → 35%
+  Over $731,200           → 37%
+
+STANDARD DEDUCTION:
+  Single: $14,600
+  Married filing jointly: $29,200
+  Head of household: $21,900
+
+SOCIAL SECURITY TAX: 6.2% up to $168,600
+MEDICARE TAX: 1.45% (additional 0.9% over $200,000)
+
+FILING DEADLINE: April 15, 2025
+
+====================================================================
+UNITED KINGDOM — INCOME TAX (HMRC) — TAX YEAR 2024-25
+====================================================================
+
+UK TAX BANDS:
+  Personal Allowance: £0 to £12,570 → 0%
+  Basic rate: £12,571 to £50,270    → 20%
+  Higher rate: £50,271 to £125,140  → 40%
+  Additional rate: over £125,140    → 45%
+
+Personal Allowance reduction: decreases by £1 for every £2 earned over £100,000
+  → Fully gone at £125,140
+
+NATIONAL INSURANCE (Class 1 Employee):
+  £12,570 to £50,270: 8%
+  Over £50,270: 2%
+
+FILING DEADLINE: January 31, 2025 (online self-assessment)
+
+====================================================================
+INDIA — INCOME TAX (ITD) — TAX YEAR 2024-25 (NEW REGIME)
+====================================================================
+
+NEW TAX REGIME (default):
+  Up to ₹3,00,000                    → Nil
+  ₹3,00,001 to ₹6,00,000            → 5%
+  ₹6,00,001 to ₹9,00,000            → 10%
+  ₹9,00,001 to ₹12,00,000           → 15%
+  ₹12,00,001 to ₹15,00,000          → 20%
+  Above ₹15,00,000                   → 30%
+
+Standard Deduction: ₹75,000 (salaried/pensioners)
+Rebate u/s 87A: Full rebate if taxable income ≤ ₹7,00,000
+Health & Education Cess: 4% on total tax
+
+FILING DEADLINE: July 31, 2025
+
+====================================================================
+AUSTRALIA — INCOME TAX (ATO) — TAX YEAR 2024-25
+====================================================================
+
+RESIDENT TAX RATES:
+  $0 to $18,200           → 0% (tax-free threshold)
+  $18,201 to $45,000      → 19%
+  $45,001 to $120,000     → 32.5%
+  $120,001 to $180,000    → 37%
+  Over $180,000           → 45%
+
+Medicare Levy: 2% of taxable income
+Medicare Levy Surcharge: 1%-1.5% if no private health insurance and income over $93,000
+
+FILING DEADLINE: October 31, 2025
+
+====================================================================
+GENERAL RULES FOR AI CALCULATIONS
+====================================================================
+
+1. ALWAYS calculate tax progressively (marginal rates), never flat rate on total income
+2. ALWAYS subtract applicable personal amount credits before reporting net tax
+3. For Canada: Total tax = Federal + Provincial — show both separately
+4. For refund/owed: Compare net tax payable against tax already withheld (from T4/pay stubs)
+5. Refund = Tax withheld - Net tax payable (positive = refund, negative = owed)
+6. Effective rate = Net tax payable / Gross income × 100
+7. If country is Canada, check which province and apply correct provincial rates
+8. If filing status is married (USA), use married filing jointly brackets
+9. Round all final amounts to 2 decimal places
+10. Flag any anomalies: negative income, deductions > income, effective rate > 50%
