@@ -1,0 +1,32 @@
+# Database credentials
+includes/db.php
+
+# Uploaded user documents (pay stubs, T4s, tax files)
+assets/uploads/*
+!assets/uploads/.gitkeep
+
+# Generated reports
+assets/reports/*
+!assets/reports/.gitkeep
+
+# Uploaded tax rule files
+assets/tax_rules/*
+!assets/tax_rules/.gitkeep
+
+# Composer installer
+composer-setup.php
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Eclipse IDE
+.buildpath
+.project
+.settings/

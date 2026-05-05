@@ -1,0 +1,39 @@
+W-2 WAGE AND TAX STATEMENT - UNITED STATES
+Tax Year: 2024
+Employer: Redwood Analytics LLC
+Employer EIN: 94-1234567
+Employee: James Rodriguez
+SSN: XXX-XX-5678
+
+Box,Description,Amount
+1,Wages Tips and Other Compensation,92000.00
+2,Federal Income Tax Withheld,15640.00
+3,Social Security Wages,92000.00
+4,Social Security Tax Withheld,5704.00
+5,Medicare Wages and Tips,92000.00
+6,Medicare Tax Withheld,1334.00
+7,Social Security Tips,0.00
+8,Allocated Tips,0.00
+10,Dependent Care Benefits,0.00
+11,Nonqualified Plans,0.00
+12a,401k Contributions (Code D),8500.00
+12b,Health Insurance (Code DD),6200.00
+13,Statutory Employee: No
+13,Retirement Plan: Yes
+13,Third Party Sick Pay: No
+14,Other - State Disability Insurance,950.00
+15,State: California
+16,State Wages,92000.00
+17,State Income Tax,5520.00
+18,Local Wages,0.00
+19,Local Income Tax,0.00
+
+Filing Status: Single
+Standard Deduction: $14,600
+
+ADDITIONAL INFORMATION:
+- Student loan interest paid: $2,100
+- Charitable donations: $1,800
+- Estimated quarterly tax payments: $0
+- No dependents claimed
+- California resident full year

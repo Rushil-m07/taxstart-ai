@@ -1,0 +1,51 @@
+FORM 16 - CERTIFICATE OF TAX DEDUCTED AT SOURCE - INDIA
+Assessment Year: 2025-26 (Financial Year 2024-25)
+Employer: InfoTech Solutions Pvt Ltd
+Employer TAN: BLRI12345A
+Employee: Arjun Mehta
+PAN: ABCDE1234F
+
+PART A - DETAILS OF TAX DEDUCTED AND DEPOSITED
+Quarter,Tax Deducted (INR),Tax Deposited (INR)
+Q1 (Apr-Jun 2024),42000,42000
+Q2 (Jul-Sep 2024),42000,42000
+Q3 (Oct-Dec 2024),42000,42000
+Q4 (Jan-Mar 2025),44000,44000
+Total TDS,170000,170000
+
+PART B - DETAILS OF SALARY
+Description,Amount (INR)
+Gross Salary,1200000
+Basic Salary,600000
+House Rent Allowance (HRA),240000
+Special Allowance,260000
+Leave Travel Allowance,100000
+
+DEDUCTIONS AND EXEMPTIONS:
+Standard Deduction (Section 16),75000
+Professional Tax,2400
+HRA Exemption (Claimed),144000
+Net Taxable Salary After Exemptions,978600
+
+CHAPTER VI-A DEDUCTIONS (if Old Regime):
+Section 80C - PPF + ELSS + LIC,150000
+Section 80D - Medical Insurance,25000
+Section 80TTA - Savings Interest,8000
+
+TAX REGIME CHOSEN: New Regime
+
+NEW REGIME CALCULATION:
+Gross Total Income,1200000
+Less Standard Deduction,75000
+Net Taxable Income,1125000
+Tax on Total Income,82500
+Health and Education Cess (4%),3300
+Total Tax Liability,85800
+Less TDS Deducted,170000
+Refund Due,84200
+
+ADDITIONAL INFORMATION:
+- Employee opted for New Tax Regime
+- No Chapter VI-A deductions applicable under New Regime
+- Employer PF contribution: INR 72,000/year
+- Employee PF contribution: INR 72,000/year
